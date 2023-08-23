@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![White Minimalist Simple Aesthetic Name Twitter Header (1)](https://github.com/ChrRepou/ChrRepou/assets/54071776/08c41feb-bb3f-41d6-a394-e28e7c4fb409)
+![](https://github.com/ChrRepou/github_stats/blob/master/generated/overview.svg) ![](https://github.com/ChrRepou/github_stats/blob/master/generated/languages.svg)
 [![@crepou's Holopin board](https://holopin.io/api/user/board?user=crepou)](https://holopin.io/@crepou)
 - Skills:
 
