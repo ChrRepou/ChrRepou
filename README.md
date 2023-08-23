@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![@crepou's Holopin board](https://holopin.io/api/user/board?user=crepou)](https://holopin.io/@crepou)
 ![White Minimalist Simple Aesthetic Name Twitter Header](https://github.com/ChrRepou/ChrRepou/assets/54071776/7d5db4d0-8eea-4788-98f2-4c17d8d04d4c)
+[![@crepou's Holopin board](https://holopin.io/api/user/board?user=crepou)](https://holopin.io/@crepou)
 
 <!--
 **ChrRepou/ChrRepou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
